@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TheCounter</string>
+    <string name="counter">COUNT= </string>
+    <string name="Increase">Increase Count</string>
+    <integer name="Count">0</integer>
+    <string name="Decrease">Decrease Count</string>
+    <string name="Reset">Reset</string>
+</resources>
